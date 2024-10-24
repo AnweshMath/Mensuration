@@ -1,0 +1,6 @@
+Tutorial for using my program:
+First, make sure that you are using a computer and that python is installed on your computer.
+Then, open https://github.com/AnweshMath/Mensuration & click the "<>Code" button then click the "Download ZIP" button to download a ZIP of the respiratory.
+Then, open file explorer locate the downloaded zip and extract it then open the extracted folder and navigate to the python scripts and open and your desired python program.
+Thanks for using my program!
+By Anwesh Arpan Behera.
